@@ -24,6 +24,8 @@ Clone the repository:
 
 
 git clone https://github.com/HelloByeLetsNot/EOResource.git
+
+
 cd EOResource
 Install the required packages:
 
